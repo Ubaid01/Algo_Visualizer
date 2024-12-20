@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Queen_image.png</file>
+        <file>images/Rat_image.png</file>
+        <file>images/video_icon.png</file>
+        <file>images/visuallization_icon.png</file>
+        <file>images/Bubble Sort.png</file>
+        <file>images/Insertion Sort.png</file>
+        <file>images/Selection Sort.png</file>
+        <file>images/Merge Sort.png</file>
+        <file>images/chess_icon.png</file>
+        <file>images/maze_icon.png</file>
+        <file>images/Quick Sort.png</file>
+        <file>images/N Queens.png</file>
+        <file>images/Rat In Maze.png</file>
+        <file>images/backtrack_algos.png</file>
+        <file>images/sorting_algos.png</file>
+        <file>images/Article_icon.png</file>
+        <file>images/icon.ico</file>
+        <file>images/bst_icon.png</file>
+        <file>images/tree_algos.png</file>
+        <file>images/avl_icon.png</file>
+        <file>images/Binary_Search_Tree.png</file>
+        <file>images/AVL_Tree.png</file>
+        <file>images/background.png</file>
+    </qresource>
+</RCC>
