@@ -11,8 +11,8 @@ enum ALGOS {
 
 enum SortingsAlgos {
     Bubble = 1,
-    Insertion,
     Selection,
+    Insertion,
     Merge,
     Quick,
     Back_to_main,
