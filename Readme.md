@@ -61,7 +61,7 @@ Both tree visualizations include video explanations and articles.
 - Basic understanding of CMake for building the project.
  
 ### **Installation**
-1. Download the latest release from [Algorithm Visualizer Releases](https://github.com/Ubaid01/Algo_Visualizer/releases/tag/v1.0.0).
+1. Download the latest release from [Algorithm Visualizer Releases](https://github.com/Ubaid01/Algo_Visualizer/releases/tag/v1.0.1).
 2. Run the standalone setup and follow the on-screen instructions.
 
 ## **Feedback and Contributions**
